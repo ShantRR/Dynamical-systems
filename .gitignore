@@ -1,0 +1,10 @@
+/Feigenbaum_Konishi-Kaneko_Kuramoto/animation
+*.mp4
+*.avi
+*copy*.*
+./*copy*.*
+*копия.*
+./*копия.*
+*/.ipynb_checkpoints
+*/__pycache__
+*/articles
